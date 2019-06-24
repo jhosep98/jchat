@@ -19,3 +19,6 @@ form {
 .form-input-group:not(:last-child) {
   margin-bottom: 10px;
 }
+body {
+  font-family: verdana;
+}
